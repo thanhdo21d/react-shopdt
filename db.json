@@ -1199,5 +1199,62 @@
       },
       "masp": "Hua3"
     }
+  ],
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$uGiKGWuEHXH618QvXbhrHuTDJQZOh2aw0ehag/5VlsarIdso39ZsO",
+      "id": 1
+    },
+    {
+      "email": "thanhdo@gmail.com",
+      "password": "$2a$10$Y4.Lo85br9ippRhbw.PILe8ZK3pXCXsgzV4kOfA9THR36jFEkcZ4u",
+      "id": 2
+    },
+    {
+      "email": "oliviedr@mail.com",
+      "password": "$2a$10$qAyxpY3TinncTqKLi2Y/leZLrKxBu10y6p5.qk0xHim5eypHLQEfa",
+      "id": 3
+    },
+    {
+      "email": "wefwefewfwe@gmail.com",
+      "password": "$2a$10$Id6CKuo0Q3Z4SifUXfVFDOylI9Lv5kKp6R1CiSqaj3YLMW17PulyC",
+      "id": 4
+    },
+    {
+      "email": "thanhthanh11@gmail.com",
+      "password": "$2a$10$rEFT0dk.TFv9GB887MzGweYTRMxgdYVCkOio6aTW25EN8wXEBNHVa",
+      "id": 5
+    },
+    {
+      "email": "thanhthansh11@gmail.com",
+      "password": "$2a$10$FDwfNP59IU1zYfp3gtXV4uj3LWnHGZdnE1jxYAnlreJJXI1Dc3UMu",
+      "id": 6
+    },
+    {
+      "email": "thanhkkkk@gmail.com",
+      "password": "$2a$10$186gcnGobUquWMTexKXbIe/RI9hC243aSC7LW7VWe4szqC9o5Fg8G",
+      "id": 7
+    },
+    {
+      "email": "thanhkkdkk@gmail.com",
+      "password": "$2a$10$W9Z1F0fARtTa6fHNLfN46.M7uFDLm7sfbdBAiCN8/nH5StAg58mFq",
+      "id": 8
+    },
+    {
+      "email": "thanhsss@gmail.com",
+      "password": "$2a$10$yzic4FW6IrMbn.zccu0cUe8VmGK6gbO08VsUvc4rkE47KI5NIGuQ.",
+      "id": 9
+    },
+    {
+      "email": "fwfewfewfew@gmail.com",
+      "password": "$2a$10$I02b01V1lIcFoMSa92KN8el0g09d8.6SClrMwZ2yU/FFapHDCguEy",
+      "id": 10
+    },
+    {
+      "email": "fwdfewfewfew@gmail.com",
+      "password": "$2a$10$F7Lql/5.EnCyonOJyc4YhuWABXHBHTs36SVviaguT84z/uV2SmJwy",
+      "id": 11
+    }
   ]
 }
